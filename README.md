@@ -14,6 +14,9 @@
          focused on making your websites usable by the widest range of people possible, 
           including those who have disabilities.</p>
           
+          <p> <strong>Four categories of accessibility</strong><br>
+                Accessibility can be broken down into four key categories:</p>
+          
         
 
 
