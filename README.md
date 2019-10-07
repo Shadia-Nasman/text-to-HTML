@@ -66,7 +66,7 @@
                                 <li>Dyslexia</li>
                             </ul>
                             </section>
-                            <div style="background-color:rgb(191, 202, 204)">
+                            <div style="background-color:rgb(247, 169, 173)">
                             <p>
                                <h4> <Strong>Temporary disabilities</Strong></h4>                               
                                 While each of these disabilities is usually permanent, there are often situations in which even fully-abled people are "temporarily disabled".
@@ -78,7 +78,6 @@
                             where the user may not have special software installed that a disabled user might.
                             </p>
                             </div>  
-
         
 
 
