@@ -13,6 +13,7 @@
         reality, web accessibility is a subset of User Experience (UX) 
          focused on making your websites usable by the widest range of people possible, 
           including those who have disabilities.</p>
+          </article>
           <p> <strong>Four categories of accessibility</strong><br>
                 Accessibility can be broken down into four key categories:</p>
                  <section>
@@ -77,12 +78,5 @@
                             but it is important to understand different situations like that,
                             where the user may not have special software installed that a disabled user might.
                             </p>
-                            </div>  
-        
-
-
-      
-                                              
-</article>
-
+                            </div>                                                           
 </body>
