@@ -4,7 +4,7 @@
 <body>
 <article>
   
-    <p>
+    
   <h1>Myth: Accessibility is 'blind people'</h1>
   <p> <italic> Published on January 11, 2013 by Dave Rupert - Updated: November 23, 2018 </italic> </p> 
 
