@@ -13,10 +13,48 @@
          focused on making your websites usable by the widest range of people possible, <br>
           including those who have disabilities.</p>
 
-<li>Visual</li>
-    <li>Auditory</li>
-        <li>Motor</li>
-            <li>Cognitive</li>
+          <p> <h4>Four categories of accessibility</h4>
+                Accessibility can be broken down into four key categories:</p>
+
+                <section>
+                        <h1>Visual</h1>
+                        <strong>this can be </strong> 
+                        <p>  <ul>
+                                <li>users with low-vision,</li>
+                                <li>users with obstructed vision,</li>
+                                <li>or even simply your aging parents.</li>
+                              </ul>
+                        
+                              
+
+                              <ul>
+                                   <p> <strong>associated conditions</strong></p>
+                                    <li>Myopia</li>
+                                            <li> Colour blindness</li>
+                                                    <li>Glaucoma</li>
+                                                            <li> Albinism</li>
+                              </ul>
+
+                        </p>
+                      </section>
+
+                      <section>
+                         <h1>Auditory</h1>
+                        <p>The web is a visual medium, but captions and fallbacks for sound-necessary media need to be <br>
+                            considered for hearing impaired users. </p> 
+                              <ul>
+                                    <li> Associated conditions</li>
+                                            <li> Presbycusis</li>
+                                                    <li> Acoustic trauma</li>
+                                                            <li> Auditory processing disorder</li>
+                                                                    <li> Otosclerosis</li>
+                                  </ul>
+                            <ul></ul>
+                            
+                          </section>
+
+                          
+
                
 </ul>
 </p>
