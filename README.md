@@ -6,15 +6,19 @@ basics in HTML5
 </head>
 <body>
 <article>
-  <h1>Learning Objectives</h1>
-  <p><strong>Let's turn some regular old text in to HYPER text!
-After this challenge you should be able to:</strong> <br>
+        
+  <h1>Myth: Accessibility is 'blind people'</h1>
+  <p> <italic> Published on January 11, 2013 by Dave Rupert - Updated: November 23, 2018 </italic> <br>
 <ul>
-<li>convert plain text to semantic html
-    <li>create a webpage with a structured html5 outline</li>
-        <li>find documentation on the available html tags</li>
-            <li>explain the use of the different html tags</li>
-                <li>check your html code with a validator</li>
+        Accessibility is often viewed as making your site work on screen readers.  <br> 
+        reality, web accessibility is a subset of User Experience (UX) <br>
+         focused on making your websites usable by the widest range of people possible, <br>
+          including those who have disabilities.
+<li>Visual</li>
+    <li>Auditory</li>
+        <li>Motor</li>
+            <li>Cognitive</li>
+               
 </ul>
 </p>
 </article>
